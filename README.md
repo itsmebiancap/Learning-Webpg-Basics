@@ -1,1 +1,1 @@
-# Sally Student Landing Page
+# Variations of different landing pages I made to test out different styles, features and attributes. Showing knowledge of incorporating different types of media, fonts, texts, design and including references.
